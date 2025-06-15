@@ -31,8 +31,3 @@ Install all required packages using the requirements.txt file::
 ```bash
 pip install -r requirements.txt
 
-pip install --upgrade langchain langchain-community
-
-pip install -U langchain-google-genai
-
-pip install tools
